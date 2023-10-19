@@ -1,9 +1,4 @@
-CS2启动项带探索，以下是CSGO的启动项说明
-
-1. 启动项间务必用空格分开
-2. 可以把自用启动项放在这里，方便复制
-
-推荐启动项
+推荐启动项（CS2待更新）
 
 -perfectworld -high -novid -nojoy -refresh 165 +exec auto.cfg
 
